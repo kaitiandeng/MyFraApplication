@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+    <fragment
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fra_button"/>
+    <fragment
+        android:name="com.example.administrator.myfraapplication.fra_00"
+        android:id="@+id/fra_00"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <fragment
+        android:name="com.example.administrator.myfraapplication.fra_01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fra_01"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/fra_button"
+        >
+    </FrameLayout>
+</RelativeLayout>
