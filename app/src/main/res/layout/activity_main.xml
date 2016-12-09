@@ -9,21 +9,11 @@
     <fragment
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/fra_button"/>
-    <fragment
-        android:name="com.example.administrator.myfraapplication.fra_00"
-        android:id="@+id/fra_00"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
-    <fragment
-        android:name="com.example.administrator.myfraapplication.fra_01"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/fra_01"/>
+        android:id="@+id/fra_00" />
     <FrameLayout
+        android:id="@+id/frame_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/fra_button"
-        >
+        android:layout_below="@+id/fra_00">
     </FrameLayout>
 </RelativeLayout>

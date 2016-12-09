@@ -12,6 +12,8 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+    fra_00 fra_00;
+    fra_01 fra_01;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -41,8 +43,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void replaceFragment(Fragment fragment){
         FragmentManager fragmentManager = getSupportFragmentManager();
         FragmentTransaction transaction = fragmentManager.beginTransaction();
-        transaction.replace(R.id.fra_01,fragment);
-        transaction.replace(R.id.fra_00,fragment);
+        transaction.replace(R.id.frame_layout, fra_00);
+        transaction.replace(R.id.frame_layout,fra_01);
         transaction.addToBackStack(null);
         transaction.commit();
     }
