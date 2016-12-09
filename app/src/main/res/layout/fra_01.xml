@@ -5,19 +5,19 @@
 
     <LinearLayout
         android:layout_marginTop="30dp"
-        android:layout_marginLeft="45dp"
-        android:layout_width="300dp"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_green_dark"
         android:layout_height="400dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="Fra_01"
-            android:background="@android:color/holo_green_dark"
-            android:textSize="70sp"
+            android:textSize="80sp"
             android:textStyle="bold"
-            android:layout_marginLeft="60dp"
-            android:layout_gravity="center_vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:id="@+id/tv" />
     </LinearLayout>
 </LinearLayout>
