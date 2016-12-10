@@ -21,12 +21,12 @@
 ### 图片与连接
 #### 插入链接
 
- 方法 ：[]()
-  
+ 方法 ：[]();
+ 
  [Baidu](http://baidu.com)
 
 #### 插入图片
 
- 方法：![](){ImgCap}{/ImgCap}
+ 方法：![](){ImgCap}{/ImgCap};
  
  ![](http://mouapp.com/Mou_128.png)
