@@ -7,7 +7,6 @@
 * 只是测试一下
 * 只是测试一下
 * 只是测试一下
-
 1. 只是测试一下
 2. 只是测试一下
 3. 只是测试一下
@@ -50,7 +49,7 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
 
 在 Markdown下实现也非常简单，只需要用两个 ` 把中间的代码包裹起来
 
-' public class HelloWorld ' 
+ public class HelloWorld 
 
     {
     
@@ -60,4 +59,4 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
         system.out.println("Hello World!");
     }
     
-} 
+} (还没弄懂。。。。）
