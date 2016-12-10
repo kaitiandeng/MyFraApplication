@@ -44,3 +44,14 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+#### 代码框
+
+在 Markdown下实现也非常简单，只需要用两个 ` 把中间的代码包裹起来
+
+'public class HelloWorld{
+    public static void main(String agrs [])
+    {
+        system.out.println("Hello World!");
+    }
+}'
