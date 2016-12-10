@@ -21,10 +21,10 @@
 ### 图片与连接
 #### 插入链接
 
- []()
+ * []()
  [Baidu](http://baidu.com)
 
 #### 插入图片
 
- ![](){ImgCap}{/ImgCap}
+ * ![](){ImgCap}{/ImgCap}
  ![](http://mouapp.com/Mou_128.png)
