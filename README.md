@@ -39,3 +39,8 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
 
 #### 表格
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
