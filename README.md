@@ -1,20 +1,28 @@
 # MyFraApplication
 ## markdowntest
 ### 有序和无序列表的用法
+
 * 只是测试一下
 * 只是测试一下
 * 只是测试一下
 * 只是测试一下
+
 1. 只是测试一下
 2. 只是测试一下
 3. 只是测试一下
 4. 只是测试一下
+
 ### 引用的用法 （'>'和文字之间有空格）
-> 这里是引用
+
+> 这里是引用 要注意空格！！！
+
 ### 图片与连接
 #### 插入链接
-* []()
-* [Baidu](http://baidu.com)
+
+ []()
+ [Baidu](http://baidu.com)
+
 #### 插入图片
-* ![](){ImgCap}{/ImgCap}
-* ![beauty](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E7%BE%8E%E5%A5%B3%E5%9B%BE&hs=0&pn=0&spn=0&di=0&pi=15906347949&rn=1&tn=baiduimagedetail&is=0%2C94912&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2193991606%2C2366854261&os=&simid=&adpicid=0&ln=30&fr=ala&fm=&sme=&cg=girl&bdtype=-1&oriquery=&objurl=http%3A%2F%2Ff.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fbba1cd11728b47101489df48c0cec3fdfd03238b.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bp7rtwgz3_z%26e3Bv54AzdH3F4jtgeAzdH3Fda8ca889AzdH3F8mm0d_z%26e3Bip4s&gsm=)
+
+ ![](){ImgCap}{/ImgCap}
+ ![](http://image.baidu.com/search/detail?z=0&ipn=d&word=setu&step_word=&hs=0&pn=5&spn=0&di=0&pi=&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&cs=2058381593%2C3380689252&os=2615332909%2C1051929021&simid=&adpicid=0&fm=&sme=&cg=&bdtype=14&simics=2621636157%2C2511198447&oriquery=&objurl=http%3A%2F%2Fi.fjsen.com%2Fimages%2Fattachement%2Fjpg%2Fsite2%2F20131126%2F1c6f656d288613fe4d0d09.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Ft_z%26e3Bu3fjg_z%26e3Bv54AzdH3Fda8n-88AzdH3FdmAzdH3Fv5gpjgp_8nan0dl0_nl_z%26e3Bip4&gsm=0&cardserver=1)
